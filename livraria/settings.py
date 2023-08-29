@@ -83,7 +83,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'livraria.wsgi.application'
+WSGI_APPLICATION = 'livraria.wsgi.app'
 
 
 # Database
